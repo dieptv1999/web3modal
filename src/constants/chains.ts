@@ -318,5 +318,11 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     chain: "ETH",
     network: "arbitrum-rinkeby",
     networkId: 421611
+  },
+  998: {
+    chainId: 998,
+    chain: 'L99',
+    network: 'lucky-network',
+    networkId: 998
   }
 };
